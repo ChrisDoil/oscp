@@ -1,0 +1,106 @@
+# Nmap 7.70 scan initiated Wed Jun  5 22:22:40 2019 as: nmap -sV -O -p 80,443 -iL hostlist.txt -oG web_ver_os.txt
+Host: 38.100.193.34 ()	Status: Up
+Host: 38.100.193.34 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 254	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.35 ()	Status: Up
+Host: 38.100.193.35 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 251	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.36 ()	Status: Up
+Host: 38.100.193.36 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 253	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.37 ()	Status: Up
+Host: 38.100.193.37 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 250	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.38 ()	Status: Up
+Host: 38.100.193.38 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 257	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.39 ()	Status: Up
+Host: 38.100.193.39 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 235	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.40 ()	Status: Up
+Host: 38.100.193.40 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 248	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.41 ()	Status: Up
+Host: 38.100.193.41 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 249	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.42 ()	Status: Up
+Host: 38.100.193.42 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 244	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.43 ()	Status: Up
+Host: 38.100.193.43 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 245	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.44 ()	Status: Up
+Host: 38.100.193.44 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 243	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.45 ()	Status: Up
+Host: 38.100.193.45 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 238	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.46 ()	Status: Up
+Host: 38.100.193.46 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 250	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.47 ()	Status: Up
+Host: 38.100.193.47 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 244	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.48 ()	Status: Up
+Host: 38.100.193.48 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 243	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.49 ()	Status: Up
+Host: 38.100.193.49 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 235	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.50 ()	Status: Up
+Host: 38.100.193.50 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 245	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.51 ()	Status: Up
+Host: 38.100.193.51 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 241	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.52 ()	Status: Up
+Host: 38.100.193.52 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 231	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.53 ()	Status: Up
+Host: 38.100.193.53 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 235	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.54 ()	Status: Up
+Host: 38.100.193.54 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 211	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.55 ()	Status: Up
+Host: 38.100.193.55 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 250	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.56 ()	Status: Up
+Host: 38.100.193.56 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 246	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.57 ()	Status: Up
+Host: 38.100.193.57 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 249	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.58 ()	Status: Up
+Host: 38.100.193.58 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 251	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.59 ()	Status: Up
+Host: 38.100.193.59 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 244	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.60 ()	Status: Up
+Host: 38.100.193.60 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 243	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.61 ()	Status: Up
+Host: 38.100.193.61 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 243	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.62 ()	Status: Up
+Host: 38.100.193.62 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//tcpwrapped///	Seq Index: 249	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.67 ()	Status: Up
+Host: 38.100.193.67 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https?///	Seq Index: 245	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.76 (www.megacorpone.com)	Status: Up
+Host: 38.100.193.76 (www.megacorpone.com)	Ports: 80/open/tcp//http//Apache httpd 2.2.22 ((Ubuntu))/, 443/open/tcp//ssl|https?///	Seq Index: 246	IP ID Seq: Incrementing by 2
+Host: 38.100.193.77 (vpn.megacorpone.com)	Status: Up
+Host: 38.100.193.77 (vpn.megacorpone.com)	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|https?///	OS: Actiontec MI424WR-GEN3I WAP	Seq Index: 252	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.79 ()	Status: Up
+Host: 38.100.193.79 ()	Ports: 80/open/tcp//http//Apache httpd 2.2.22/, 443/closed/tcp//https///	Seq Index: 251	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.84 (mail.megacorpone.com)	Status: Up
+Host: 38.100.193.84 (mail.megacorpone.com)	Ports: 80/open/tcp//http//Microsoft IIS httpd 7.5/, 443/closed/tcp//https///	Seq Index: 238	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.89 (siem.megacorpone.com)	Status: Up
+Host: 38.100.193.89 (siem.megacorpone.com)	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|https?///	Seq Index: 247	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.99 ()	Status: Up
+Host: 38.100.193.99 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https?///	Seq Index: 249	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.100 ()	Status: Up
+Host: 38.100.193.100 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https?///	Seq Index: 245	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.101 ()	Status: Up
+Host: 38.100.193.101 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https?///	Seq Index: 240	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.102 ()	Status: Up
+Host: 38.100.193.102 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https?///	Seq Index: 239	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.130 ()	Status: Up
+Host: 38.100.193.130 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https?///	Seq Index: 254	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.131 ()	Status: Up
+Host: 38.100.193.131 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https?///	Seq Index: 241	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.132 ()	Status: Up
+Host: 38.100.193.132 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https?///	Seq Index: 243	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.133 ()	Status: Up
+Host: 38.100.193.133 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https?///	Seq Index: 244	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.134 ()	Status: Up
+Host: 38.100.193.134 ()	Ports: 80/closed/tcp//http///, 443/open/tcp//ssl|https?///	Seq Index: 242	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.209 ()	Status: Up
+Host: 38.100.193.209 ()	Ports: 80/open/tcp//http//Cisco IOS http config/, 443/filtered/tcp//https///	Seq Index: 238	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.210 ()	Status: Up
+Host: 38.100.193.210 ()	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|https?///	OS: Actiontec MI424WR-GEN3I WAP|DD-WRT v24-sp2 (Linux 2.4.37)|Linux 3.2|Microsoft Windows XP SP3|Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012	Seq Index: 255	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.212 ()	Status: Up
+Host: 38.100.193.212 ()	Ports: 80/open/tcp//http//Apache httpd 2.2.3 ((CentOS))/, 443/open/tcp//ssl|https?///	OS: Microsoft Windows XP SP3|Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012|VMware Player virtual NAT device	Seq Index: 251	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.213 (posta.appsoft.us)	Status: Up
+Host: 38.100.193.213 (posta.appsoft.us)	Ports: 80/open/tcp//http//Apache httpd/, 443/open/tcp//ssl|https?///	OS: DD-WRT v24-sp2 (Linux 2.4.37)|Linux 4.4	Seq Index: 250	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.214 ()	Status: Up
+Host: 38.100.193.214 ()	Ports: 80/open/tcp//http//nginx 1.0.15/, 443/filtered/tcp//https///	OS: DD-WRT v24-sp2 (Linux 2.4.37)|Microsoft Windows XP SP3|Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012	Seq Index: 262	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.217 ()	Status: Up
+Host: 38.100.193.217 ()	Ports: 80/open/tcp//http//Apache httpd 2.2.15 ((CentOS))/, 443/open/tcp//ssl|http//Apache httpd 2.2.15 ((CentOS))/	OS: Actiontec MI424WR-GEN3I WAP|DD-WRT v24-sp2 (Linux 2.4.37)|Linux 3.2|Microsoft Windows XP SP3|Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012	Seq Index: 259	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.218 ()	Status: Up
+Host: 38.100.193.218 ()	Ports: 80/open/tcp//http//nginx 1.10.2/, 443/open/tcp//ssl|http//nginx 1.10.2/	OS: Actiontec MI424WR-GEN3I WAP|DD-WRT v24-sp2 (Linux 2.4.37)|Linux 3.2	Seq Index: 259	IP ID Seq: Busy server or unknown class
+Host: 38.100.193.219 ()	Status: Up
+Host: 38.100.193.219 ()	Ports: 80/open/tcp//http//Apache httpd (PHP 5.6.38)/, 443/filtered/tcp//https///	OS: Actiontec MI424WR-GEN3I WAP|Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012	Seq Index: 253	IP ID Seq: Incrementing by 2
+# Nmap done at Wed Jun  5 22:24:10 2019 -- 52 IP addresses (52 hosts up) scanned in 89.99 seconds

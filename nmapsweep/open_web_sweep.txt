@@ -1,0 +1,106 @@
+# Nmap 7.70 scan initiated Wed Jun  5 22:08:40 2019 as: nmap -iL hostlist.txt -p 80,443 -oG open_web_sweep.txt
+Host: 38.100.193.34 ()	Status: Up
+Host: 38.100.193.34 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.35 ()	Status: Up
+Host: 38.100.193.35 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.36 ()	Status: Up
+Host: 38.100.193.36 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.37 ()	Status: Up
+Host: 38.100.193.37 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.38 ()	Status: Up
+Host: 38.100.193.38 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.39 ()	Status: Up
+Host: 38.100.193.39 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.40 ()	Status: Up
+Host: 38.100.193.40 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.41 ()	Status: Up
+Host: 38.100.193.41 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.42 ()	Status: Up
+Host: 38.100.193.42 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.43 ()	Status: Up
+Host: 38.100.193.43 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.44 ()	Status: Up
+Host: 38.100.193.44 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.45 ()	Status: Up
+Host: 38.100.193.45 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.46 ()	Status: Up
+Host: 38.100.193.46 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.47 ()	Status: Up
+Host: 38.100.193.47 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.48 ()	Status: Up
+Host: 38.100.193.48 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.49 ()	Status: Up
+Host: 38.100.193.49 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.50 ()	Status: Up
+Host: 38.100.193.50 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.51 ()	Status: Up
+Host: 38.100.193.51 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.52 ()	Status: Up
+Host: 38.100.193.52 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.53 ()	Status: Up
+Host: 38.100.193.53 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.54 ()	Status: Up
+Host: 38.100.193.54 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.55 ()	Status: Up
+Host: 38.100.193.55 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.56 ()	Status: Up
+Host: 38.100.193.56 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.57 ()	Status: Up
+Host: 38.100.193.57 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.58 ()	Status: Up
+Host: 38.100.193.58 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.59 ()	Status: Up
+Host: 38.100.193.59 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.60 ()	Status: Up
+Host: 38.100.193.60 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.61 ()	Status: Up
+Host: 38.100.193.61 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.62 ()	Status: Up
+Host: 38.100.193.62 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.67 ()	Status: Up
+Host: 38.100.193.67 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.76 (www.megacorpone.com)	Status: Up
+Host: 38.100.193.76 (www.megacorpone.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.77 (vpn.megacorpone.com)	Status: Up
+Host: 38.100.193.77 (vpn.megacorpone.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.79 ()	Status: Up
+Host: 38.100.193.79 ()	Ports: 80/open/tcp//http///, 443/filtered/tcp//https///
+Host: 38.100.193.84 (mail.megacorpone.com)	Status: Up
+Host: 38.100.193.84 (mail.megacorpone.com)	Ports: 80/open/tcp//http///, 443/filtered/tcp//https///
+Host: 38.100.193.89 (siem.megacorpone.com)	Status: Up
+Host: 38.100.193.89 (siem.megacorpone.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.99 ()	Status: Up
+Host: 38.100.193.99 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.100 ()	Status: Up
+Host: 38.100.193.100 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.101 ()	Status: Up
+Host: 38.100.193.101 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.102 ()	Status: Up
+Host: 38.100.193.102 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.130 ()	Status: Up
+Host: 38.100.193.130 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.131 ()	Status: Up
+Host: 38.100.193.131 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.132 ()	Status: Up
+Host: 38.100.193.132 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.133 ()	Status: Up
+Host: 38.100.193.133 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.134 ()	Status: Up
+Host: 38.100.193.134 ()	Ports: 80/filtered/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.209 ()	Status: Up
+Host: 38.100.193.209 ()	Ports: 80/open/tcp//http///, 443/filtered/tcp//https///
+Host: 38.100.193.210 ()	Status: Up
+Host: 38.100.193.210 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.212 ()	Status: Up
+Host: 38.100.193.212 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.213 (posta.appsoft.us)	Status: Up
+Host: 38.100.193.213 (posta.appsoft.us)	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.214 ()	Status: Up
+Host: 38.100.193.214 ()	Ports: 80/open/tcp//http///, 443/filtered/tcp//https///
+Host: 38.100.193.217 ()	Status: Up
+Host: 38.100.193.217 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.218 ()	Status: Up
+Host: 38.100.193.218 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 38.100.193.219 ()	Status: Up
+Host: 38.100.193.219 ()	Ports: 80/open/tcp//http///, 443/filtered/tcp//https///
+# Nmap done at Wed Jun  5 22:08:46 2019 -- 52 IP addresses (52 hosts up) scanned in 6.19 seconds
