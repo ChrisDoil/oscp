@@ -1,0 +1,554 @@
+# Nmap 7.70 scan initiated Mon Jun 10 11:08:40 2019 as: nmap -iL smb_hosts.txt --script smb-vuln-ms08-067.nse -oN smb_vuln.txt
+Nmap scan report for 10.11.1.5
+Host is up (0.21s latency).
+Not shown: 995 closed ports
+PORT     STATE    SERVICE
+135/tcp  open     msrpc
+139/tcp  open     netbios-ssn
+445/tcp  open     microsoft-ds
+1025/tcp open     NFS-or-IIS
+6969/tcp filtered acmsoda
+
+Nmap scan report for 10.11.1.5
+Host is up (0.20s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1025/tcp open  NFS-or-IIS
+
+Nmap scan report for 10.11.1.8
+Host is up (0.20s latency).
+Not shown: 990 filtered ports
+PORT     STATE  SERVICE
+21/tcp   open   ftp
+22/tcp   open   ssh
+25/tcp   closed smtp
+80/tcp   open   http
+111/tcp  open   rpcbind
+139/tcp  open   netbios-ssn
+443/tcp  open   https
+445/tcp  open   microsoft-ds
+631/tcp  open   ipp
+3306/tcp open   mysql
+
+Nmap scan report for 10.11.1.8
+Host is up (0.21s latency).
+Not shown: 990 filtered ports
+PORT     STATE  SERVICE
+21/tcp   open   ftp
+22/tcp   open   ssh
+25/tcp   closed smtp
+80/tcp   open   http
+111/tcp  open   rpcbind
+139/tcp  open   netbios-ssn
+443/tcp  open   https
+445/tcp  open   microsoft-ds
+631/tcp  open   ipp
+3306/tcp open   mysql
+
+Nmap scan report for 10.11.1.22
+Host is up (0.21s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+22/tcp    open  ssh
+23/tcp    open  telnet
+25/tcp    open  smtp
+80/tcp    open  http
+111/tcp   open  rpcbind
+139/tcp   open  netbios-ssn
+199/tcp   open  smux
+443/tcp   open  https
+995/tcp   open  pop3s
+32768/tcp open  filenet-tms
+
+Nmap scan report for 10.11.1.22
+Host is up (0.21s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+22/tcp    open  ssh
+23/tcp    open  telnet
+25/tcp    open  smtp
+80/tcp    open  http
+111/tcp   open  rpcbind
+139/tcp   open  netbios-ssn
+199/tcp   open  smux
+443/tcp   open  https
+995/tcp   open  pop3s
+32768/tcp open  filenet-tms
+
+Nmap scan report for 10.11.1.24
+Host is up (0.20s latency).
+Not shown: 992 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+110/tcp open  pop3
+139/tcp open  netbios-ssn
+143/tcp open  imap
+445/tcp open  microsoft-ds
+993/tcp open  imaps
+995/tcp open  pop3s
+
+Nmap scan report for 10.11.1.24
+Host is up (0.21s latency).
+Not shown: 992 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+110/tcp open  pop3
+139/tcp open  netbios-ssn
+143/tcp open  imap
+445/tcp open  microsoft-ds
+993/tcp open  imaps
+995/tcp open  pop3s
+
+Nmap scan report for 10.11.1.31
+Host is up (0.20s latency).
+Not shown: 992 closed ports
+PORT      STATE    SERVICE
+80/tcp    open     http
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+1025/tcp  open     NFS-or-IIS
+1433/tcp  open     ms-sql-s
+3389/tcp  open     ms-wbt-server
+51493/tcp filtered unknown
+
+Nmap scan report for 10.11.1.31
+Host is up (0.20s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1025/tcp open  NFS-or-IIS
+1433/tcp open  ms-sql-s
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 10.11.1.49
+Host is up (0.21s latency).
+Not shown: 996 filtered ports
+PORT      STATE SERVICE
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+49155/tcp open  unknown
+
+Nmap scan report for 10.11.1.49
+Host is up (0.21s latency).
+Not shown: 996 filtered ports
+PORT      STATE SERVICE
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+49155/tcp open  unknown
+
+Nmap scan report for 10.11.1.50
+Host is up (0.21s latency).
+Not shown: 996 filtered ports
+PORT      STATE SERVICE
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+49155/tcp open  unknown
+
+Nmap scan report for 10.11.1.50
+Host is up (0.20s latency).
+Not shown: 996 filtered ports
+PORT      STATE SERVICE
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+49155/tcp open  unknown
+
+Nmap scan report for 10.11.1.115
+Host is up (0.20s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+22/tcp    open  ssh
+25/tcp    open  smtp
+80/tcp    open  http
+111/tcp   open  rpcbind
+139/tcp   open  netbios-ssn
+143/tcp   open  imap
+199/tcp   open  smux
+443/tcp   open  https
+3306/tcp  open  mysql
+32768/tcp open  filenet-tms
+
+Nmap scan report for 10.11.1.115
+Host is up (0.21s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+22/tcp    open  ssh
+25/tcp    open  smtp
+80/tcp    open  http
+111/tcp   open  rpcbind
+139/tcp   open  netbios-ssn
+143/tcp   open  imap
+199/tcp   open  smux
+443/tcp   open  https
+3306/tcp  open  mysql
+32768/tcp open  filenet-tms
+
+Nmap scan report for 10.11.1.128
+Host is up (0.20s latency).
+Not shown: 987 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+25/tcp   open  smtp
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+1025/tcp open  NFS-or-IIS
+1026/tcp open  LSA-or-nterm
+1029/tcp open  ms-lsa
+3372/tcp open  msdtc
+5800/tcp open  vnc-http
+5900/tcp open  vnc
+
+Nmap scan report for 10.11.1.128
+Host is up (0.20s latency).
+Not shown: 986 closed ports
+PORT     STATE    SERVICE
+21/tcp   open     ftp
+25/tcp   open     smtp
+80/tcp   open     http
+135/tcp  open     msrpc
+139/tcp  open     netbios-ssn
+443/tcp  open     https
+445/tcp  open     microsoft-ds
+1025/tcp open     NFS-or-IIS
+1026/tcp open     LSA-or-nterm
+1029/tcp open     ms-lsa
+2040/tcp filtered lam
+3372/tcp open     msdtc
+5800/tcp open     vnc-http
+5900/tcp open     vnc
+
+Nmap scan report for 10.11.1.136
+Host is up (0.21s latency).
+Not shown: 995 closed ports
+PORT     STATE    SERVICE
+22/tcp   open     ssh
+113/tcp  open     ident
+139/tcp  open     netbios-ssn
+445/tcp  open     microsoft-ds
+9001/tcp filtered tor-orport
+
+Nmap scan report for 10.11.1.136
+Host is up (0.20s latency).
+Not shown: 996 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+113/tcp open  ident
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for 10.11.1.202
+Host is up (0.21s latency).
+Not shown: 982 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+1030/tcp open  iad1
+1032/tcp open  iad3
+1033/tcp open  netinfo
+1038/tcp open  mtqp
+1521/tcp open  oracle
+2030/tcp open  device2
+2100/tcp open  amiganetfs
+3372/tcp open  msdtc
+3389/tcp open  ms-wbt-server
+4443/tcp open  pharos
+7778/tcp open  interwise
+8080/tcp open  http-proxy
+
+Nmap scan report for 10.11.1.202
+Host is up (0.20s latency).
+Not shown: 981 closed ports
+PORT      STATE    SERVICE
+21/tcp    open     ftp
+80/tcp    open     http
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+443/tcp   open     https
+445/tcp   open     microsoft-ds
+1030/tcp  open     iad1
+1032/tcp  open     iad3
+1033/tcp  open     netinfo
+1038/tcp  open     mtqp
+1521/tcp  open     oracle
+2030/tcp  open     device2
+2100/tcp  open     amiganetfs
+3372/tcp  open     msdtc
+3389/tcp  open     ms-wbt-server
+4443/tcp  open     pharos
+7778/tcp  open     interwise
+8080/tcp  open     http-proxy
+51103/tcp filtered unknown
+
+Nmap scan report for 10.11.1.220
+Host is up (0.21s latency).
+Not shown: 979 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+53/tcp    open  domain
+88/tcp    open  kerberos-sec
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+389/tcp   open  ldap
+445/tcp   open  microsoft-ds
+464/tcp   open  kpasswd5
+593/tcp   open  http-rpc-epmap
+636/tcp   open  ldapssl
+3268/tcp  open  globalcatLDAP
+3269/tcp  open  globalcatLDAPssl
+3389/tcp  open  ms-wbt-server
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49161/tcp open  unknown
+49176/tcp open  unknown
+
+Nmap scan report for 10.11.1.220
+Host is up (0.20s latency).
+Not shown: 979 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+53/tcp    open  domain
+88/tcp    open  kerberos-sec
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+389/tcp   open  ldap
+445/tcp   open  microsoft-ds
+464/tcp   open  kpasswd5
+593/tcp   open  http-rpc-epmap
+636/tcp   open  ldapssl
+3268/tcp  open  globalcatLDAP
+3269/tcp  open  globalcatLDAPssl
+3389/tcp  open  ms-wbt-server
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49161/tcp open  unknown
+49176/tcp open  unknown
+
+Nmap scan report for 10.11.1.223
+Host is up (0.21s latency).
+Not shown: 987 closed ports
+PORT      STATE SERVICE
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+443/tcp   open  https
+445/tcp   open  microsoft-ds
+3306/tcp  open  mysql
+3389/tcp  open  ms-wbt-server
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49156/tcp open  unknown
+49157/tcp open  unknown
+
+Nmap scan report for 10.11.1.223
+Host is up (0.21s latency).
+Not shown: 986 closed ports
+PORT      STATE    SERVICE
+80/tcp    open     http
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+259/tcp   filtered esro-gen
+443/tcp   open     https
+445/tcp   open     microsoft-ds
+3306/tcp  open     mysql
+3389/tcp  open     ms-wbt-server
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49156/tcp open     unknown
+49157/tcp open     unknown
+
+Nmap scan report for 10.11.1.227
+Host is up (0.21s latency).
+Not shown: 987 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+25/tcp   open  smtp
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+1025/tcp open  NFS-or-IIS
+1026/tcp open  LSA-or-nterm
+1028/tcp open  unknown
+3372/tcp open  msdtc
+5800/tcp open  vnc-http
+5900/tcp open  vnc
+
+Nmap scan report for 10.11.1.227
+Host is up (0.21s latency).
+Not shown: 987 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+25/tcp   open  smtp
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+1025/tcp open  NFS-or-IIS
+1026/tcp open  LSA-or-nterm
+1028/tcp open  unknown
+3372/tcp open  msdtc
+5800/tcp open  vnc-http
+5900/tcp open  vnc
+
+Host script results:
+| smb-vuln-ms08-067: 
+|   VULNERABLE:
+|   Microsoft Windows system vulnerable to remote code execution (MS08-067)
+|     State: VULNERABLE
+|     IDs:  CVE:CVE-2008-4250
+|           The Server service in Microsoft Windows 2000 SP4, XP SP2 and SP3, Server 2003 SP1 and SP2,
+|           Vista Gold and SP1, Server 2008, and 7 Pre-Beta allows remote attackers to execute arbitrary
+|           code via a crafted RPC request that triggers the overflow during path canonicalization.
+|           
+|     Disclosure date: 2008-10-23
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-4250
+|_      https://technet.microsoft.com/en-us/library/security/ms08-067.aspx
+| smb-vuln-ms08-067: 
+|   VULNERABLE:
+|   Microsoft Windows system vulnerable to remote code execution (MS08-067)
+|     State: VULNERABLE
+|     IDs:  CVE:CVE-2008-4250
+|           The Server service in Microsoft Windows 2000 SP4, XP SP2 and SP3, Server 2003 SP1 and SP2,
+|           Vista Gold and SP1, Server 2008, and 7 Pre-Beta allows remote attackers to execute arbitrary
+|           code via a crafted RPC request that triggers the overflow during path canonicalization.
+|           
+|     Disclosure date: 2008-10-23
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-4250
+|_      https://technet.microsoft.com/en-us/library/security/ms08-067.aspx
+
+Nmap scan report for 10.11.1.229
+Host is up (0.21s latency).
+Not shown: 988 filtered ports
+PORT     STATE  SERVICE
+21/tcp   open   ftp
+23/tcp   closed telnet
+25/tcp   open   smtp
+80/tcp   open   http
+110/tcp  open   pop3
+135/tcp  open   msrpc
+139/tcp  open   netbios-ssn
+143/tcp  open   imap
+443/tcp  closed https
+1025/tcp open   NFS-or-IIS
+2869/tcp closed icslap
+3389/tcp open   ms-wbt-server
+
+Nmap scan report for 10.11.1.229
+Host is up (0.20s latency).
+Not shown: 988 filtered ports
+PORT     STATE  SERVICE
+21/tcp   open   ftp
+23/tcp   closed telnet
+25/tcp   open   smtp
+80/tcp   open   http
+110/tcp  open   pop3
+135/tcp  open   msrpc
+139/tcp  open   netbios-ssn
+143/tcp  open   imap
+443/tcp  closed https
+1025/tcp open   NFS-or-IIS
+2869/tcp closed icslap
+3389/tcp open   ms-wbt-server
+
+Host script results:
+| smb-vuln-ms08-067: 
+|   VULNERABLE:
+|   Microsoft Windows system vulnerable to remote code execution (MS08-067)
+|     State: VULNERABLE
+|     IDs:  CVE:CVE-2008-4250
+|           The Server service in Microsoft Windows 2000 SP4, XP SP2 and SP3, Server 2003 SP1 and SP2,
+|           Vista Gold and SP1, Server 2008, and 7 Pre-Beta allows remote attackers to execute arbitrary
+|           code via a crafted RPC request that triggers the overflow during path canonicalization.
+|           
+|     Disclosure date: 2008-10-23
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-4250
+|_      https://technet.microsoft.com/en-us/library/security/ms08-067.aspx
+| smb-vuln-ms08-067: 
+|   VULNERABLE:
+|   Microsoft Windows system vulnerable to remote code execution (MS08-067)
+|     State: VULNERABLE
+|     IDs:  CVE:CVE-2008-4250
+|           The Server service in Microsoft Windows 2000 SP4, XP SP2 and SP3, Server 2003 SP1 and SP2,
+|           Vista Gold and SP1, Server 2008, and 7 Pre-Beta allows remote attackers to execute arbitrary
+|           code via a crafted RPC request that triggers the overflow during path canonicalization.
+|           
+|     Disclosure date: 2008-10-23
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-4250
+|_      https://technet.microsoft.com/en-us/library/security/ms08-067.aspx
+
+Nmap scan report for 10.11.1.230
+Host is up (0.21s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+3389/tcp  open  ms-wbt-server
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+
+Nmap scan report for 10.11.1.230
+Host is up (0.21s latency).
+Not shown: 987 closed ports
+PORT      STATE    SERVICE
+19/tcp    filtered chargen
+80/tcp    open     http
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+843/tcp   filtered unknown
+3389/tcp  open     ms-wbt-server
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49158/tcp open     unknown
+49160/tcp open     unknown
+
+# Nmap done at Mon Jun 10 11:26:14 2019 -- 32 IP addresses (32 hosts up) scanned in 1053.22 seconds

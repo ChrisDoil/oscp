@@ -1,0 +1,26 @@
+# Nmap 7.70 scan initiated Sat Jun  8 18:52:57 2019 as: nmap --script smb-vuln-ms08-067.nse -oN smb_vuln_ms08_out.txt 38.100.193.131 38.100.193.101 38.100.193.67
+Nmap scan report for 38.100.193.131
+Host is up (0.058s latency).
+Not shown: 997 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.101
+Host is up (0.064s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+53/tcp  open  domain
+443/tcp open  https
+992/tcp open  telnets
+
+Nmap scan report for 38.100.193.67
+Host is up (0.056s latency).
+Not shown: 997 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+443/tcp  open  https
+8080/tcp open  http-proxy
+
+# Nmap done at Sat Jun  8 18:55:09 2019 -- 3 IP addresses (3 hosts up) scanned in 132.65 seconds

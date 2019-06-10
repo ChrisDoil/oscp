@@ -1,0 +1,6 @@
+# Nmap 7.70 scan initiated Sat Jun  8 23:49:28 2019 as: nmap -p 25 -oG smtp_sweep_217.txt 217.70.178.0/24
+Host: 217.70.178.6 (webmail.gandi.net)	Status: Up
+Host: 217.70.178.6 (webmail.gandi.net)	Ports: 25/filtered/tcp//smtp///
+Host: 217.70.178.7 (webmail.eu.com)	Status: Up
+Host: 217.70.178.7 (webmail.eu.com)	Ports: 25/filtered/tcp//smtp///
+# Nmap done at Sat Jun  8 23:49:38 2019 -- 256 IP addresses (2 hosts up) scanned in 10.62 seconds

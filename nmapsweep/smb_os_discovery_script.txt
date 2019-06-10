@@ -1,0 +1,544 @@
+Nmap scan report for 38.100.193.34
+Host is up (0.093s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.35
+Host is up (0.10s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.36
+Host is up (1.3s latency).
+Not shown: 981 closed ports
+PORT      STATE    SERVICE
+25/tcp    filtered smtp
+53/tcp    open     domain
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+144/tcp   filtered news
+443/tcp   open     https
+445/tcp   filtered microsoft-ds
+514/tcp   filtered shell
+992/tcp   open     telnets
+1688/tcp  filtered nsjtp-data
+2041/tcp  filtered interbase
+4662/tcp  filtered edonkey
+5001/tcp  filtered commplex-link
+5298/tcp  filtered presence
+5555/tcp  open     freeciv
+8031/tcp  filtered unknown
+10003/tcp filtered documentum_s
+50006/tcp filtered unknown
+52822/tcp filtered unknown
+
+Nmap scan report for 38.100.193.37
+Host is up (0.12s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.38
+Host is up (0.10s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.39
+Host is up (0.11s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.40
+Host is up (0.092s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.41
+Host is up (1.3s latency).
+Not shown: 987 closed ports
+PORT     STATE    SERVICE
+25/tcp   filtered smtp
+53/tcp   open     domain
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+443/tcp  open     https
+445/tcp  filtered microsoft-ds
+514/tcp  filtered shell
+992/tcp  open     telnets
+1840/tcp filtered netopia-vo2
+3703/tcp filtered adobeserver-3
+4662/tcp filtered edonkey
+5555/tcp open     freeciv
+9010/tcp filtered sdr
+
+Nmap scan report for 38.100.193.42
+Host is up (0.097s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.43
+Host is up (1.8s latency).
+Not shown: 983 closed ports
+PORT      STATE    SERVICE
+25/tcp    filtered smtp
+53/tcp    open     domain
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+306/tcp   filtered unknown
+443/tcp   open     https
+445/tcp   filtered microsoft-ds
+514/tcp   filtered shell
+992/tcp   open     telnets
+1105/tcp  filtered ftranhc
+1864/tcp  filtered paradym-31
+4662/tcp  filtered edonkey
+5555/tcp  open     freeciv
+5998/tcp  filtered ncd-diag
+7004/tcp  filtered afs3-kaserver
+16113/tcp filtered unknown
+17877/tcp filtered unknown
+
+Nmap scan report for 38.100.193.44
+Host is up (1.3s latency).
+Not shown: 984 closed ports
+PORT     STATE    SERVICE
+25/tcp   filtered smtp
+53/tcp   open     domain
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+443/tcp  open     https
+445/tcp  filtered microsoft-ds
+514/tcp  filtered shell
+992/tcp  open     telnets
+1046/tcp filtered wfremotertm
+1113/tcp filtered ltp-deepspace
+1277/tcp filtered miva-mqs
+1455/tcp filtered esl-lm
+1524/tcp filtered ingreslock
+4662/tcp filtered edonkey
+5555/tcp open     freeciv
+9666/tcp filtered zoomcp
+
+Nmap scan report for 38.100.193.45
+Host is up (0.092s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.46
+Host is up (0.083s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.47
+Host is up (0.11s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.48
+Host is up (0.12s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.49
+Host is up (0.090s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.50
+Host is up (0.11s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.51
+Host is up (0.088s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.52
+Host is up (1.3s latency).
+Not shown: 986 closed ports
+PORT      STATE    SERVICE
+25/tcp    filtered smtp
+53/tcp    open     domain
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+443/tcp   open     https
+445/tcp   filtered microsoft-ds
+514/tcp   filtered shell
+992/tcp   open     telnets
+1001/tcp  filtered webpush
+1311/tcp  filtered rxmon
+2045/tcp  filtered cdfunc
+4662/tcp  filtered edonkey
+5555/tcp  open     freeciv
+34573/tcp filtered unknown
+
+Nmap scan report for 38.100.193.53
+Host is up (0.11s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.54
+Host is up (1.3s latency).
+Not shown: 976 closed ports
+PORT      STATE    SERVICE
+25/tcp    filtered smtp
+53/tcp    open     domain
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+443/tcp   open     https
+445/tcp   filtered microsoft-ds
+514/tcp   filtered shell
+992/tcp   open     telnets
+1087/tcp  filtered cplscrambler-in
+1201/tcp  filtered nucleus-sand
+2191/tcp  filtered tvbus
+2608/tcp  filtered wag-service
+3323/tcp  filtered active-net
+3369/tcp  filtered satvid-datalnk
+3580/tcp  filtered nati-svrloc
+4662/tcp  filtered edonkey
+5280/tcp  filtered xmpp-bosh
+5555/tcp  open     freeciv
+5877/tcp  filtered unknown
+5963/tcp  filtered indy
+6112/tcp  filtered dtspc
+6123/tcp  filtered backup-express
+7001/tcp  filtered afs3-callback
+16992/tcp filtered amt-soap-http
+
+Nmap scan report for 38.100.193.55
+Host is up (0.099s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.56
+Host is up (0.18s latency).
+Not shown: 997 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.57
+Host is up (0.071s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.58
+Host is up (0.075s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.59
+Host is up (0.13s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.60
+Host is up (0.080s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.61
+Host is up (0.073s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.62
+Host is up (0.073s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.67
+Host is up (1.4s latency).
+Not shown: 989 closed ports
+PORT     STATE    SERVICE
+22/tcp   open     ssh
+25/tcp   filtered smtp
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+443/tcp  open     https
+445/tcp  filtered microsoft-ds
+514/tcp  filtered shell
+1058/tcp filtered nim
+3269/tcp filtered globalcatLDAPssl
+4662/tcp filtered edonkey
+8080/tcp open     http-proxy
+
+Nmap scan report for www.megacorpone.com (38.100.193.76)
+Host is up (0.098s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for vpn.megacorpone.com (38.100.193.77)
+Host is up (0.11s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 38.100.193.79
+Host is up (0.11s latency).
+Not shown: 998 filtered ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+Nmap scan report for mail.megacorpone.com (38.100.193.84)
+Host is up (1.4s latency).
+Not shown: 989 closed ports
+PORT     STATE    SERVICE
+22/tcp   open     ssh
+25/tcp   filtered smtp
+80/tcp   open     http
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+366/tcp  filtered odmr
+445/tcp  filtered microsoft-ds
+514/tcp  filtered shell
+1039/tcp filtered sbl
+1075/tcp filtered rdrmshc
+4662/tcp filtered edonkey
+
+Nmap scan report for siem.megacorpone.com (38.100.193.89)
+Host is up (0.089s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 38.100.193.99
+Host is up (0.085s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.100
+Host is up (0.11s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.101
+Host is up (0.083s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.102
+Host is up (0.099s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.130
+Host is up (0.13s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.131
+Host is up (0.074s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.132
+Host is up (0.079s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.133
+Host is up (0.10s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.134
+Host is up (0.11s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+443/tcp  open  https
+992/tcp  open  telnets
+5555/tcp open  freeciv
+
+Nmap scan report for 38.100.193.209
+Host is up (0.11s latency).
+Not shown: 998 filtered ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+Nmap scan report for 38.100.193.210
+Host is up (0.12s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 38.100.193.212
+Host is up (0.11s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for posta.appsoft.us (38.100.193.213)
+Host is up (0.10s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8081/tcp open  blackice-icecap
+8083/tcp open  us-srv
+
+Nmap scan report for 38.100.193.214
+Host is up (0.10s latency).
+Not shown: 998 filtered ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+Nmap scan report for 38.100.193.217
+Host is up (0.099s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 38.100.193.218
+Host is up (0.11s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 38.100.193.219
+Host is up (0.090s latency).
+Not shown: 998 filtered ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+

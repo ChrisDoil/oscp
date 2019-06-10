@@ -1,0 +1,28 @@
+Starting enum4linux v0.8.9 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Sat Jun  8 19:10:53 2019
+
+ ========================== 
+|    Target Information    |
+ ========================== 
+Target ........... 38.100.193.131
+RID Range ........ 500-550,1000-1050
+Username ......... ''
+Password ......... ''
+Known Usernames .. administrator, guest, krbtgt, domain admins, root, bin, none
+
+
+ ====================================================== 
+|    Enumerating Workgroup/Domain on 38.100.193.131    |
+ ====================================================== 
+[E] Can't find workgroup/domain
+
+
+ ============================================== 
+|    Nbtstat Information for 38.100.193.131    |
+ ============================================== 
+Looking up status of 38.100.193.131
+No reply from 38.100.193.131
+
+ ======================================= 
+|    Session Check on 38.100.193.131    |
+ ======================================= 
+[E] Server doesn't allow session using username '', password ''.  Aborting remainder of tests.
